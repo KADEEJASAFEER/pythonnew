@@ -1,0 +1,5 @@
+101,anju,bca,130
+102,athira,mca,152
+103,vinitha,mca,150
+104,jasni,bca,145
+105,sreepa,mca,153
